@@ -34,6 +34,7 @@ $$ \mathrm{(bias)}^2 = \int \{E_D[y(x;D) - h(x)\}^2p(x)dx, \mathrm{variance} = \
 
 ### The Bias-Variance Tradeoff
 There is a trade-off between bias and variance, with very flexible models having low bias and high variance, and relatively rigid models having high bias and low variance. The model with the optimal predictive capability is the one that leads to the best balance between bias and variance.
+
 <img src="https://miro.medium.com/max/1482/1*WXi_7HIL3FKETFdfegcEmA.png" width="400">
 
 
@@ -77,6 +78,6 @@ As $p$ increases, in Lasso, the multidimensional diamond will have increasing nu
 
 ## Source
 [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)  
-[Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/) 
-[A Modern Take on the Bias-Variance Tradeoff in Neural Networks](https://openreview.net/pdf?id=HkgmzhC5F7) 
+[Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/) \
+[A Modern Take on the Bias-Variance Tradeoff in Neural Networks](https://openreview.net/pdf?id=HkgmzhC5F7) \
 [Regularization and Shrinkage: Ridge, Lasso and Elastic Net Regression](https://www.datasklr.com/extensions-of-ols-regression/regularization-and-shrinkage-ridge-lasso-and-elastic-net-regression)
